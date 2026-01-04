@@ -1,0 +1,10 @@
+name: molsyssuite-tutorial
+channels:
+  - uibcdf
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - jupyterlab
+  # - molsysmt
+  # - molsysviewer
