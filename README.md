@@ -1,2 +1,1 @@
-# molsyssuite-tutorials
-MolSysSuite Tutorials
+# MolSysSuite Tutorials
